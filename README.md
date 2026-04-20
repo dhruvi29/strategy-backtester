@@ -21,7 +21,7 @@ Emphasizes robust backtesting, risk-aware design, and extensible architecture.
 ### Steps
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/dhruvi29/strategy-backtester
    cd backtesting
    ```
 
