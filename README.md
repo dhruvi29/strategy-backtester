@@ -22,7 +22,7 @@ Emphasizes robust backtesting, risk-aware design, and extensible architecture.
 1. Clone the repository:
    ```
    git clone https://github.com/dhruvi29/strategy-backtester
-   cd backtesting
+   cd strategy-backtester
    ```
 
 2. Create and activate a virtual environment (recommended):
